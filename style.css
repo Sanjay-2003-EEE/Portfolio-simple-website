@@ -1,0 +1,105 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    .young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+.container{
+    padding: 50px;
+}
+.selection-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+.selection-one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin: 10px;
+    
+}
+.selection-one__name{
+    font-size: 60px;
+}
+.selection-one__role{
+    font-size: 30px;
+    margin: 10px;
+}
+.selection-two,.selection-four,.selection-five,.selection-six,.selection-seven,.selection-eight
+{
+    margin-top: 20px;
+}
+.selection-two__description,.selection-three__description,.selection-four__description,.selection-five__description,.selection-six__description,.selection-seven__description
+{
+    margin: 10px;
+}
+.selection-five li,.selection-three li,.selection-six li,.selection-seven li .selection-four li{
+    list-style: none;
+}
+.selection-three{
+    background-color:cadetblue;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 100px;
+    border-radius: 20px;
+      vertical-align:bottom
+    
+}
+.selection-five{
+    background-color: #6462FD;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 100px;
+    border-radius: 20px;
+ 
+   
+}
+.selection-six{
+    background-color: #FE7517;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 100px;
+    border-radius: 20px;
+
+  
+}
+.contact-form{
+    margin-top: 20px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top: 20px;
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: orangered;
+    color: black;
+    border: none;
+}
