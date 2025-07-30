@@ -1,5 +1,5 @@
 # Portfolio-simple-website
-# 🌐 Simple Portfolio Website
+# 🌐 My Portfolio Website
 
 This is a basic personal portfolio website created using **HTML** and **CSS**. It includes two main pages: **Home** and **Contact**.
 
